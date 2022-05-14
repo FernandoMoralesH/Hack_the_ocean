@@ -5,4 +5,8 @@ describe('Class CreatureController',()=> {
         const Creatures = CreatureController.getCreatures()
         expect(Creatures).not.toBeUndefined();
     })
+    test('2. Metodo getCreturebyName',()=>{
+        const CreaturebyName =  CreatureController.getCreturebyName("Totoaba");
+        expect(CreaturebyName).not.toBeUndefined();
+    })
 })
