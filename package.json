@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/UbaldoFMelchor/Hack_the_ocean/issues"
   },
-  "homepage": "https://github.com/UbaldoFMelchor/Hack_the_ocean#readme"
+  "homepage": "https://github.com/UbaldoFMelchor/Hack_the_ocean#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }

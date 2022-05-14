@@ -42,8 +42,9 @@
         "nombre": "Vaquita Marina",
         "nombre científico":"Phocoena Sinus",
         "oceano": "Golfo de California",
-        "nivel de peligro": 1,
-        "Fecha de inclusion": "node",
+        "nivel de peligro": "Critically Endangered A2a+4d; C1+2a(ii); D; E",
+        "Fecha de inclusion": "20 July 2017",
+        "URL":"https://wir.iucnredlist.org/phocoena-sinus.jpg",
 
         "Principales amenazas": [
           "pesca furtiva",
