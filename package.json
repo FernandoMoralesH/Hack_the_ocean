@@ -20,6 +20,7 @@
     "lib": "lib"
   },
   "devDependencies": {
-    "jest": "^28.1.0"
+    "eslint": "^8.15.0",
+    "jest": "^26.0.0"
   }
 }
