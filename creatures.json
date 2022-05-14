@@ -3,7 +3,7 @@
         "nombre": "Totoaba",
         "nombre_científico":"Totoaba macdonaldi",
         "oceano": "Golfo de California",
-        "nivel_de_peligro": "Vulnerable A4bd",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
         "Fecha_de_inclusion": "21 August 2020",
         "URL":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Totoaba.jpg",
         "Principales_amenazas": [
@@ -21,7 +21,7 @@
         "nombre": "Tortuga carey",
         "nombre_científico":"Eretmochelys imbricata",
         "oceano": "Golfo de México",
-        "nivel_de_peligro": "Critically Endangered A2bd",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "30 June 2008",
 
         "URL":"https://wir.iucnredlist.org/eretmochelys-imbricata.jpg",
@@ -42,7 +42,7 @@
         "nombre": "Vaquita Marina",
         "nombre_científico":"Phocoena Sinus",
         "oceano": "Golfo de California",
-        "nivel_de_peligro": "Critically Endangered A2a+4d; C1+2a(ii); D; E",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "20 July 2017",
         "URL":"https://wir.iucnredlist.org/phocoena-sinus.jpg",
 
@@ -61,7 +61,7 @@
         "nombre": "Ballena Azul",
         "nombre_científico":"Balaenoptera musculus",
         "oceano": "Pacífico",
-        "nivel_de_peligro": "Endangered A1abd",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
         "Fecha_de_inclusion": "16 March 2018",
         "URL":"https://wir.iucnredlist.org/balaenoptera-musculus.jpg",
 
@@ -77,7 +77,7 @@
         "nombre": "Tortuga Lora",
         "nombre_científico":"Lepidochelys kempii",
         "oceano": "Golfo de México",
-        "nivel_de_peligro": "Critically Endangered A2bd",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "14 January 2019",
         "URL":"https://wir.iucnredlist.org/787195903.jpg",
         "Principales_amenazas": [
@@ -102,7 +102,7 @@
         "URL":"https://wir.iucnredlist.org/572215165.jpg",
 
         "Principales_amenazas": [
-          "pesca y recoleccion de recursos acuáticos",
+          "Pesca y recoleccion de recursos acuáticos",
           "Modificaciones al ecosistema",
           "Cambios en el habitat"
         ],
@@ -120,7 +120,7 @@
         "Fecha_de_inclusion": "09 November 2018",
         "URL":"https://wir.iucnredlist.org/sphyrna-mokarran.jpg",
         "Principales_amenazas": [
-          "pesca y recoleccion de recursos acuáticos"
+          "Pesca y recoleccion de recursos acuáticos"
           
         ],
         "Acciones_necesarias":[
@@ -133,46 +133,50 @@
         "nombre": "Rorcual común",
         "nombre_científico":"Balaenoptera physalus",
         "oceano": "Golfo de California",
-        "nivel_de_peligro": 1,
-        "Fecha_de_inclusion": "node",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
+        "Fecha_de_inclusion": "04 February 2018",
+        "URL":"https://wir.iucnredlist.org/1855675223.jpg",
         "Principales_amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+            "Pesca y recoleccion de recursos acuáticos"
+        ],
+        "Acciones_necesarias":[
+            "Crear plan de Recuperación",
+            "Incluir legislación internacional",
+            "Crear sistema de monitoreo sistemático"
         ]
     },
     {
         "nombre": "Delfín de Cabeza Blanca ",
         "nombre_científico":"Cephalorhynchus hectori",
         "oceano": "Pacífico",
-        "nivel_de_peligro": 1,
-        "Fecha_de_inclusion": "node",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
+        "Fecha_de_inclusion": "01 July 2008",
+        "URL":"https://wir.iucnredlist.org/cephalorhynchus-hectori.jpg",
         "Principales_amenazas": [
-          "pesca furtiva",
+          "líneas de Pesca",
           "Contaminación",
-          "Especies Invasoras"
+          "Pesca y recoleccion de recursos acuáticos"
         ],
         "Acciones_necesarias":[
-            "Detener pezca ilegal",
-            "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Creación de santuarios",
+            "Incluir legislación internacional"
         ]
     },
     {
         "nombre": "Tortuga Verde",
         "nombre_científico":"Chelonia mydas",
         "oceano": "Golfo de México",
-        "nivel_de_peligro": 1,
-        "Fecha_de_inclusion": "node",
+        "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
+        "Fecha_de_inclusion": "30 April 2004",
+        "URL":"https://wir.iucnredlist.org/chelonia-mydas.jpg",
         "Principales_amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+          "Turismo y areas de recreación",
+          "Pesca y recoleccion de recursos acuáticos"
+          
         ],
         "Acciones_necesarias":[
-            "Detener pezca ilegal",
-            "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Iformar y crear conciencia pública",
+            "Incluir legislación internacional"
         ]
     }
 ]
