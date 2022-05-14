@@ -47,49 +47,50 @@
         "URL":"https://wir.iucnredlist.org/phocoena-sinus.jpg",
 
         "Principales amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+            " Mortalidad en las redes de enmalle",
+            "Exposición a pesticidas",
+            "Cambios ecológicos"
         ],
         "Acciones necesarias":[
-            "Detener pezca ilegal",
-            "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Prohibición permanente de uso de redes de enmalle",
+            "Prohibición permanente de posesion y manufactura de redes de enmalle",
+            "llevar especimenes a santuarios protegidos"
         ]
     },
     {
         "nombre": "Ballena Azul",
         "nombre científico":"Balaenoptera musculus",
         "oceano": "Pacífico",
-        "nivel de peligro": 1,
-        "Fecha de inclusion": "node",
+        "nivel de peligro": "Endangered A1abd",
+        "Fecha de inclusion": "16 March 2018",
+        "URL":"https://wir.iucnredlist.org/balaenoptera-musculus.jpg",
 
         "Principales amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+          "Explotación directa",
+          "Heridas por impacto con barcos"
         ],
         "Acciones necesarias":[
-            "Detener pezca ilegal",
-            "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Detener pezca ilegal"
         ]
     },
     {
         "nombre": "Tortuga Lora",
         "nombre científico":"Lepidochelys kempii",
         "oceano": "Golfo de México",
-        "nivel de peligro": 1,
-        "Fecha de inclusion": "node",
+        "nivel de peligro": "Critically Endangered A2bd",
+        "Fecha de inclusion": "14 January 2019",
+        "URL":"https://wir.iucnredlist.org/787195903.jpg",
         "Principales amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+          "redes de arrastre de fondo",
+          "Predación",
+          "aturdimiento frío",
+          "Contaminacion por desechos marinos"
         ],
         "Acciones necesarias":[
-            "Detener pezca ilegal",
+            "creacion de corrales para proteger de depredación",
             "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Mejorar la regulación sobre el desecho de desperdicios",
+            "Aumentar las inspecciones de actividades de extracción de petróleo"
         ]
     },
     {
