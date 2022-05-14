@@ -1,0 +1,175 @@
+[
+    {
+        "nombre": "Totoaba",
+        "nombre científico":"Totoaba macdonaldi",
+        "oceano": "Golfo de California",
+        "nivel de peligro": "Vulnerable A4bd",
+        "Fecha de inclusion": "21 August 2020",
+        "URL":"https://en.wikipedia.org/wiki/File:Totoaba.jpg",
+        "Principales amenazas": [
+          "Caza furtiva",
+          "Captura incidental",
+          "Comercio illegal"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tortuga carey",
+        "nombre científico":"Eretmochelys imbricata",
+        "oceano": "Golfo de México",
+        "nivel de peligro": "Critically Endangered A2bd",
+        "Fecha de inclusion": "30 June 2008",
+
+        "URL":"https://wir.iucnredlist.org/eretmochelys-imbricata.jpg",
+        "Principales amenazas": [
+          "recolección de huevos furtiva",
+          "Caza Ilegal",
+          "Destruccion de habitat natural",
+          "Ingesta de basura"
+        ],
+        "Acciones necesarias":[
+            "Crear conciencia pública",
+            "Crear tratados de protección internacional",
+            "Creación de ares protegidas",
+            "Incrementar número de Biólogos que estudien a las tortugas"
+        ]
+    },
+    {
+        "nombre": "Vaquita Marina",
+        "nombre científico":"Phocoena Sinus",
+        "oceano": "Golfo de California",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Ballena Azul",
+        "nombre científico":"Balaenoptera musculus",
+        "oceano": "Pacífico",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tortuga Lora",
+        "nombre científico":"Lepidochelys kempii",
+        "oceano": "Golfo de México",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "León Marino de Steller",
+        "nombre científico":"Eumetopias Jubatus",
+        "oceano": "Pacífico",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tiburón Martillo Gigante ",
+        "nombre científico":"Sphyrna mokarran",
+        "oceano": "Golfo de México",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Rorcual común",
+        "nombre científico":"Balaenoptera physalus",
+        "oceano": "Golfo de California",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ]
+    },
+    {
+        "nombre": "Delfín de Cabeza Blanca ",
+        "nombre científico":"Cephalorhynchus hectori",
+        "oceano": "Pacífico",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tortuga Verde",
+        "nombre científico":"Chelonia mydas",
+        "oceano": "Golfo de México",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    }
+]
