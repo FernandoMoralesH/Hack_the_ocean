@@ -97,30 +97,31 @@
         "nombre": "León Marino de Steller",
         "nombre científico":"Eumetopias Jubatus",
         "oceano": "Pacífico",
-        "nivel de peligro": 1,
-        "Fecha de inclusion": "node",
+        "nivel de peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_nt-2a5d8310adfd84fc0d659f7183f7fcae5cfbed88d9bbbbb95201079eb9c53e3e.svg",
+        "Fecha de inclusion": "04 February 2016",
+        "URL":"https://wir.iucnredlist.org/572215165.jpg",
 
         "Principales amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+          "pesca y recoleccion de recursos acuáticos",
+          "Modificaciones al ecosistema",
+          "Cambios en el habitat"
         ],
         "Acciones necesarias":[
-            "Detener pezca ilegal",
-            "Proteger tierra de desove",
-            "Mejorar la recolección de información"
+            "Reducir la depredación",
+            "Creación de santuarios",
+            "Aumentar los recursos de investigación"
         ]
     },
     {
         "nombre": "Tiburón Martillo Gigante ",
         "nombre científico":"Sphyrna mokarran",
         "oceano": "Golfo de México",
-        "nivel de peligro": 1,
-        "Fecha de inclusion": "node",
+        "nivel de peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha de inclusion": "09 November 2018",
+        "URL":"https://wir.iucnredlist.org/sphyrna-mokarran.jpg",
         "Principales amenazas": [
-          "pesca furtiva",
-          "Contaminación",
-          "Especies Invasoras"
+          "pesca y recoleccion de recursos acuáticos"
+          
         ],
         "Acciones necesarias":[
             "Detener pezca ilegal",
