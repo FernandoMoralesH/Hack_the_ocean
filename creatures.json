@@ -1,0 +1,178 @@
+[
+    {
+        "nombre": "Totoaba",
+        "nombre científico":"Totoaba macdonaldi",
+        "oceano": "Golfo de California",
+        "nivel de peligro": "Vulnerable A4bd",
+        "Fecha de inclusion": "21 August 2020",
+        "URL":"https://en.wikipedia.org/wiki/File:Totoaba.jpg",
+        "Principales amenazas": [
+          "Caza furtiva",
+          "Captura incidental",
+          "Comercio illegal"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tortuga carey",
+        "nombre científico":"Eretmochelys imbricata",
+        "oceano": "Golfo de México",
+        "nivel de peligro": "Critically Endangered A2bd",
+        "Fecha de inclusion": "30 June 2008",
+
+        "URL":"https://wir.iucnredlist.org/eretmochelys-imbricata.jpg",
+        "Principales amenazas": [
+          "recolección de huevos furtiva",
+          "Caza Ilegal",
+          "Destruccion de habitat natural",
+          "Ingesta de basura"
+        ],
+        "Acciones necesarias":[
+            "Crear conciencia pública",
+            "Crear tratados de protección internacional",
+            "Creación de ares protegidas",
+            "Incrementar número de Biólogos que estudien a las tortugas"
+        ]
+    },
+    {
+        "nombre": "Vaquita Marina",
+        "nombre científico":"Phocoena Sinus",
+        "oceano": "Golfo de California",
+        "nivel de peligro": "Critically Endangered A2a+4d; C1+2a(ii); D; E",
+        "Fecha de inclusion": "20 July 2017",
+        "URL":"https://wir.iucnredlist.org/phocoena-sinus.jpg",
+
+        "Principales amenazas": [
+            " Mortalidad en las redes de enmalle",
+            "Exposición a pesticidas",
+            "Cambios ecológicos"
+        ],
+        "Acciones necesarias":[
+            "Prohibición permanente de uso de redes de enmalle",
+            "Prohibición permanente de posesion y manufactura de redes de enmalle",
+            "llevar especimenes a santuarios protegidos"
+        ]
+    },
+    {
+        "nombre": "Ballena Azul",
+        "nombre científico":"Balaenoptera musculus",
+        "oceano": "Pacífico",
+        "nivel de peligro": "Endangered A1abd",
+        "Fecha de inclusion": "16 March 2018",
+        "URL":"https://wir.iucnredlist.org/balaenoptera-musculus.jpg",
+
+        "Principales amenazas": [
+          "Explotación directa",
+          "Heridas por impacto con barcos"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal"
+        ]
+    },
+    {
+        "nombre": "Tortuga Lora",
+        "nombre científico":"Lepidochelys kempii",
+        "oceano": "Golfo de México",
+        "nivel de peligro": "Critically Endangered A2bd",
+        "Fecha de inclusion": "14 January 2019",
+        "URL":"https://wir.iucnredlist.org/787195903.jpg",
+        "Principales amenazas": [
+          "redes de arrastre de fondo",
+          "Predación",
+          "aturdimiento frío",
+          "Contaminacion por desechos marinos"
+        ],
+        "Acciones necesarias":[
+            "creacion de corrales para proteger de depredación",
+            "Proteger tierra de desove",
+            "Mejorar la regulación sobre el desecho de desperdicios",
+            "Aumentar las inspecciones de actividades de extracción de petróleo"
+        ]
+    },
+    {
+        "nombre": "León Marino de Steller",
+        "nombre científico":"Eumetopias Jubatus",
+        "oceano": "Pacífico",
+        "nivel de peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_nt-2a5d8310adfd84fc0d659f7183f7fcae5cfbed88d9bbbbb95201079eb9c53e3e.svg",
+        "Fecha de inclusion": "04 February 2016",
+        "URL":"https://wir.iucnredlist.org/572215165.jpg",
+
+        "Principales amenazas": [
+          "pesca y recoleccion de recursos acuáticos",
+          "Modificaciones al ecosistema",
+          "Cambios en el habitat"
+        ],
+        "Acciones necesarias":[
+            "Reducir la depredación",
+            "Creación de santuarios",
+            "Aumentar los recursos de investigación"
+        ]
+    },
+    {
+        "nombre": "Tiburón Martillo Gigante ",
+        "nombre científico":"Sphyrna mokarran",
+        "oceano": "Golfo de México",
+        "nivel de peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
+        "Fecha de inclusion": "09 November 2018",
+        "URL":"https://wir.iucnredlist.org/sphyrna-mokarran.jpg",
+        "Principales amenazas": [
+          "pesca y recoleccion de recursos acuáticos"
+          
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Rorcual común",
+        "nombre científico":"Balaenoptera physalus",
+        "oceano": "Golfo de California",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ]
+    },
+    {
+        "nombre": "Delfín de Cabeza Blanca ",
+        "nombre científico":"Cephalorhynchus hectori",
+        "oceano": "Pacífico",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    },
+    {
+        "nombre": "Tortuga Verde",
+        "nombre científico":"Chelonia mydas",
+        "oceano": "Golfo de México",
+        "nivel de peligro": 1,
+        "Fecha de inclusion": "node",
+        "Principales amenazas": [
+          "pesca furtiva",
+          "Contaminación",
+          "Especies Invasoras"
+        ],
+        "Acciones necesarias":[
+            "Detener pezca ilegal",
+            "Proteger tierra de desove",
+            "Mejorar la recolección de información"
+        ]
+    }
+]
