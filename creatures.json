@@ -1,7 +1,7 @@
 [
     {
-        "nombre": "Totoaba",
-        "nombre_científico":"Totoaba macdonaldi",
+        "nombre": "totoaba",
+        "nombre_científico":"totoaba macdonaldi",
         "oceano": "Golfo de California",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
         "Fecha_de_inclusion": "21 August 2020",
@@ -18,8 +18,8 @@
         ]
     },
     {
-        "nombre": "Tortuga carey",
-        "nombre_científico":"Eretmochelys imbricata",
+        "nombre": "tortuga carey",
+        "nombre_científico":"eretmochelys imbricata",
         "oceano": "Golfo de México",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "30 June 2008",
@@ -39,8 +39,8 @@
         ]
     },
     {
-        "nombre": "Vaquita Marina",
-        "nombre_científico":"Phocoena Sinus",
+        "nombre": "vaquita marina",
+        "nombre_científico":"phocoena sinus",
         "oceano": "Golfo de California",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "20 July 2017",
@@ -58,8 +58,8 @@
         ]
     },
     {
-        "nombre": "Ballena Azul",
-        "nombre_científico":"Balaenoptera musculus",
+        "nombre": "ballena azul",
+        "nombre_científico":"balaenoptera musculus",
         "oceano": "Pacífico",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
         "Fecha_de_inclusion": "16 March 2018",
@@ -74,8 +74,8 @@
         ]
     },
     {
-        "nombre": "Tortuga Lora",
-        "nombre_científico":"Lepidochelys kempii",
+        "nombre": "tortuga lora",
+        "nombre_científico":"lepidochelys kempii",
         "oceano": "Golfo de México",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "14 January 2019",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "nombre": "León Marino de Steller",
+        "nombre": "león marino de steller",
         "nombre_científico":"Eumetopias Jubatus",
         "oceano": "Pacífico",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_nt-2a5d8310adfd84fc0d659f7183f7fcae5cfbed88d9bbbbb95201079eb9c53e3e.svg",
@@ -113,8 +113,8 @@
         ]
     },
     {
-        "nombre": "Tiburón Martillo Gigante",
-        "nombre_científico":"Sphyrna mokarran",
+        "nombre": "tiburón martillo gigante",
+        "nombre_científico":"sphyrna mokarran",
         "oceano": "Golfo de México",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_cr-b096635dc39417c4c50ad812d0412ed8ba20924c0878113126127a6363507aff.svg",
         "Fecha_de_inclusion": "09 November 2018",
@@ -130,8 +130,8 @@
         ]
     },
     {
-        "nombre": "Rorcual común",
-        "nombre_científico":"Balaenoptera physalus",
+        "nombre": "rorcual común",
+        "nombre_científico":"balaenoptera physalus",
         "oceano": "Golfo de California",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_vu-1c4c0b40a65312caf241aa0e81956752a91e5cec1d52db68ebdb5ebb78511559.svg",
         "Fecha_de_inclusion": "04 February 2018",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "nombre": "Delfín de Cabeza Blanca",
+        "nombre": "delfín de cabeza blanca",
         "nombre_científico":"Cephalorhynchus hectori",
         "oceano": "Pacífico",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
@@ -163,8 +163,8 @@
         ]
     },
     {
-        "nombre": "Tortuga Verde",
-        "nombre_científico":"Chelonia mydas",
+        "nombre": "tortuga verde",
+        "nombre_científico":"chelonia mydas",
         "oceano": "Golfo de México",
         "nivel_de_peligro": "https://nrl.iucnredlist.org/assets/category-scale/category-scale_en-0d69810f4e9b3fa5f0d5ed9ace02cfddaf11e383da57fed8aed99930c95d7075.svg",
         "Fecha_de_inclusion": "30 April 2004",
