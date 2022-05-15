@@ -489,9 +489,13 @@ p
         width: 100%;
     }
     
-    .columna-mobile-50
+    .columna-mobile-50 .cuadrado-perfecto.diez
     {
-        width: 50%;
+        width: 100%;
+        object-fit: cover;
+        object-position:right;
+        top: 0;
+        left: 0;
     }
 
     .empujar-mobile-0
