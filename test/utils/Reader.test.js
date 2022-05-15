@@ -5,4 +5,4 @@ describe("Prueba de Archivos",()=>{
         file = Reader.readJsonFile("creatures.json");
         expect(file).not.toBeUndefined();
     });
-})
+});
