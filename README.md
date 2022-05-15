@@ -85,11 +85,29 @@ test --> controllers_test
 ```
 En nuestra carpeta ```lib``` realizamos la separación de responsbilidades de la siguiente forma:
 En la carpeta  Utils tenemos ```Reader.js``` para leer y transformar el archivo ```creatures.json``` en un objeto
-
+```mermaid
+classDiagram
+    class Reader
+    Reader : +readJsonFile(filePath)
+```
 En la carpeta ```services```tenemos el archivo ```creatureService``` para filtrar el objeto por nombres
 
+```mermaid
+classDiagram
+    class creatureServices
+    creatureServices : +getCreatures(creatures)
+    creatureServices : +getCreatureByName(creatures, name)
+    
+```
 Finalmente la carpeta ```controllers``` contiene el archivo ```creatureController``` con un método que nos permite obtener la información de una especie por nombre y otro que nos regresa todos los objetos
 
+```mermaid
+classDiagram
+    class creatureController
+    creatureController : +getCreatures()
+    creatureController : +getCreatureByName(name)
+    
+```
 En la carpeta ```test``` tenemos las pruebas de unidad que corresponden a las carpetas que comparten el respectivo nombre del directorio ```lib``` 
 
 
