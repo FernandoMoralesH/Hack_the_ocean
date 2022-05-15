@@ -316,6 +316,7 @@ p
 #causas .bloque-causas .bloque-img-causas img
 {
     width: 100%;
+    box-shadow: inset;
 }
 
 #causas .bloque-causas .bloque-img-causas.cuadrado-perfecto
@@ -505,14 +506,16 @@ p
 
     #inicio
     {
-        height: 100vh;
+        height: 50vh;
     }
 
     #inicio img
     {
         height: 100%;
-        object-fit: cover;
+        object-fit: contain;
+        width: 100%;
         object-position: center;
+        margin-bottom: 0px;
     }
 
     #causas .bloque-servicio
