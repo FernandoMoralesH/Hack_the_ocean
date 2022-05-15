@@ -72,17 +72,18 @@ Vista del sitio Web
 ```mermaid
 stateDiagram-v2
 [Root] --> lib
-lib --> controllers
-lib --> services
 lib --> utils
+lib --> services
+lib --> controllers
 [Root] --> node_modules
 [Root] --> src
 src --> assets
 [Root] --> test
-test --> controllers_test
-test -->services_test
 test --> utils_test
+test -->services_test
+test --> controllers_test
 ```
+En nuestra carpeta lib realizamos la separación de responsbilidades de la siguiente forma
 
 
 
