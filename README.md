@@ -75,7 +75,6 @@ stateDiagram-v2
 lib --> utils
 lib --> services
 lib --> controllers
-[Root] --> node_modules
 [Root] --> src
 src --> assets
 [Root] --> test
