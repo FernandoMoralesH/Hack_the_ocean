@@ -8,7 +8,7 @@ body
 {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-/*    background-color: teal;*/
+    background-color: #2596be;
 }
 
 a
@@ -19,7 +19,7 @@ a
 
 header 
 {
-    background-color: black;
+    background-color:rgba(52, 58, 64, 0.4);
     padding: 15px 0; 
     position: fixed;
     top: 0;
@@ -42,10 +42,17 @@ header .container .logo
 
 header .container nav    a
 {
-    color:dodgerblue;
+    color:rgb(255, 255, 255);
     text-decoration: none;
     margin: 0 15px; 
     font-size: 20px;
+}
+
+header .container nav    a:hover
+{
+    background-color: rgba(255, 255, 255, 0);
+    color:rgb(64, 224, 208);
+    margin-top: 15px;
 }
 
 header .container .menu
@@ -56,7 +63,7 @@ header .container .menu
 
 footer.seccion
 {
-    background-color: black;
+    background-color: rgba(52, 58, 64,1);
     color: white;
     padding-bottom: 0;
 }
@@ -73,7 +80,7 @@ footer .barra-footer
 
 footer .logo-footer
 {
-    width: 100%;
+    width: 75%;
 }
 
 footer p
@@ -376,7 +383,7 @@ p
 #busqueda_avanzada form
 {
     padding: 60px;
-    background-color: darkblue;
+    background-color: rgba(52, 58, 64,1);
 }
 
 #busqueda_avanzada form .form-block
