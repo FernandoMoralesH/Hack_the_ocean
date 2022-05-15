@@ -14,7 +14,7 @@ Tabla de Contenidos
 2. [Planteamiento del problema](#id2)
 3. [Maquetación y propuestas de Wireframe](#id3)
 4. [front end](#id4)
-5. [Introducción](#id5)
+5. [Estructura de directorios](#id5)
 6. [Introducción](#id6)
 
 ## Introducción <a name="id1"></a>
@@ -68,7 +68,25 @@ Vista del sitio Web
 
 
 
-## Introducción <a name="id5"></a>
+## Estructura de directorios <a name="id5"></a>
+```mermaid
+stateDiagram-v2
+[Root] --> lib
+lib --> controllers
+lib --> services
+lib --> utils
+[Root] --> node_modules
+[Root] --> src
+src --> assets
+[Root] --> test
+test --> controllers_test
+test -->services_test
+test --> utils_test
+```
+
+
+
+
 ## Introducción <a name="id6"></a>
 
 
