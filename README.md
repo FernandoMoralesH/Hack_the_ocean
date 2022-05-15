@@ -10,7 +10,7 @@ Nuestra tripulación consiste en estudiantes de back end NodeJs:
 
 Tabla de Contenidos
 1. [Introducción](#id1)
-2. [Introducción](#id2)
+2. [Planteamiento del problema](#id2)
 3. [Introducción](#id3)
 4. [Introducción](#id4)
 5. [Introducción](#id5)
@@ -27,6 +27,13 @@ Las herramientas que decidimos utilizar para la realización de nuestro proyecto
 * CSS
 
 ## Planteamiento del problema <a name="id2"></a>
+
+Entre los ejes para la búsqueda de una solución se nos presentaron:
+
+* Especies en peligro de extensión.
+* Contaminación (acidificación, derrames petroleros, etcétera).
+* Cuidado y preservación de especies marinas.
+* Sobrepesca
 
 
 ## Introducción <a name="id3"></a>
