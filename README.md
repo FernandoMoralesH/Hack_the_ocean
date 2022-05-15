@@ -15,7 +15,7 @@ Tabla de Contenidos
 3. [Maquetación y propuestas de Wireframe](#id3)
 4. [front end](#id4)
 5. [Estructura de directorios](#id5)
-6. [Introducción](#id6)
+6. [Flujo del programa](#id6)
 
 ## Introducción <a name="id1"></a>
 Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
@@ -93,11 +93,13 @@ Finalmente la carpeta ```controllers``` contiene el archivo ```creatureControlle
 En la carpeta ```test``` tenemos las pruebas de unidad que corresponden a las carpetas que comparten el respectivo nombre del directorio ```lib``` 
 
 
+## Flujo del programa <a name="id6"></a>
 
-
-
-
-## Introducción <a name="id6"></a>
-
+```mermaid
+stateDiagram-v2
+creatures.json --> Reader
+Reader --> creatureService
+creatureService --> creatureController
+```
 
 
