@@ -102,11 +102,23 @@ Reader --> creatureService
 creatureService --> creatureController
 ```
 ## Dependencias <a name="id7"></a>
-| Dependencia | Versión | Uso |
-| ------------- |:-------------:| -----:|
-|[eslint](https://github.com/ArturoMendozaA/playbook/tree/main/weekly_mission_3)|8.15.0|linter|
-|[Jest](https://jestjs.io/)|26.6.3|Pruebase de unidad|
-|[Express](https://expressjs.com/)|4.18.1|Server project|
-|[test.yml](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions)|1.0.3|Github Action automatización de pruebas on push|
+A continuación se muestran las dependencia utilizadas en le proyecto, para poder instalarlas utilizar ``npm install``
+1. ``Jest`` : Dependencia necesaria para realizar y crear las pruebas de unidad.
+   - Para correr las pruebas, desde la terminal ejecutar:
+ `` npm test test/Directorio_de_la_prueba/prueba.test.js``
+   - Documentación de ``jest``: https://jestjs.io/
 
+2. ``express``: Dependencia necesaria para correr el server.
+    - Para correr el server, desde la terminal ejecutar:
+ `` npm run server``
+    - Documentación de ``express``: https://expressjs.com/es/  
+
+3. ``Eslint``: Dependencia para corregir y aggreglar nuestro codigo de JS.
+    - Al instalar en necesario configurar el archivo ``.eslintrc`` con el siguente comando ``npm init @eslint/config`` y configurar como se muestra a continuación:
+   
+      ![npm 2022-05-15 12-31-33](https://user-images.githubusercontent.com/99165587/168486677-4e68b4ab-7b80-449d-b1ed-056afd8c7e13.gif)
+
+    - Documentación de ``ESlint``:https://eslint.org/ 
+    - Rules: https://eslint.org/docs/rules/
+    - Airbnb Code Style: https://github.com/airbnb/javascript
 
