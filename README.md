@@ -41,7 +41,8 @@ A continuación se muestran las dependencia utilizadas en le proyecto, para pode
     - Rules: https://eslint.org/docs/rules/
     - Airbnb Code Style: https://github.com/airbnb/javascript
 
-
+4.``Cors``Para realizar el control de acceso, utilizando el siguiente comando `npm install cors --save`
+    - Documentación de ``Cors``:https://developer.mozilla.org/es/docs/Web/HTTP/CORS 
 
 ## Introducción <a name="id2"></a>
 Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
