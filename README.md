@@ -17,6 +17,14 @@ Tabla de Contenidos
 6. [Introducción](#id6)
 
 Introducción <a name="id1"></a>
-Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX
+Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
+
+Las herramientas que decidimos utilizar para la realización de nuestro proyecto fueron:
+
+* Github
+* NodeJs
+* HTML
+* CSS
+
 
 
