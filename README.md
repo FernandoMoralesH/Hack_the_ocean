@@ -14,8 +14,8 @@ Tabla de Contenidos
 2. [Planteamiento del problema](#id2)
 3. [Maquetación y propuestas de Wireframe](#id3)
 4. [front end](#id4)
-5. [Introducción](#id5)
-6. [Introducción](#id6)
+5. [Estructura de directorios](#id5)
+6. [Flujo del programa](#id6)
 
 ## Introducción <a name="id1"></a>
 Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
@@ -68,8 +68,37 @@ Vista del sitio Web
 
 
 
-## Introducción <a name="id5"></a>
-## Introducción <a name="id6"></a>
+## Estructura de directorios <a name="id5"></a>
+```mermaid
+stateDiagram-v2
+[Root] --> lib
+lib --> utils
+lib --> services
+lib --> controllers
+[Root] --> src
+src --> assets
+[Root] --> test
+test --> utils_test
+test -->services_test
+test --> controllers_test
+```
+En nuestra carpeta ```lib``` realizamos la separación de responsbilidades de la siguiente forma:
+En la carpeta  Utils tenemos ```Reader.js``` para leer y transformar el archivo ```creatures.json``` en un objeto
 
+En la carpeta ```services```tenemos el archivo ```creatureService``` para filtrar el objeto por nombres
+
+Finalmente la carpeta ```controllers``` contiene el archivo ```creatureController``` con un método que nos permite obtener la información de una especie por nombre y otro que nos regresa todos los objetos
+
+En la carpeta ```test``` tenemos las pruebas de unidad que corresponden a las carpetas que comparten el respectivo nombre del directorio ```lib``` 
+
+
+## Flujo del programa <a name="id6"></a>
+
+```mermaid
+stateDiagram-v2
+creatures.json --> Reader
+Reader --> creatureService
+creatureService --> creatureController
+```
 
 
