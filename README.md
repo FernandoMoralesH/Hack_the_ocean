@@ -83,7 +83,16 @@ test --> utils_test
 test -->services_test
 test --> controllers_test
 ```
-En nuestra carpeta lib realizamos la separación de responsbilidades de la siguiente forma
+En nuestra carpeta ```lib``` realizamos la separación de responsbilidades de la siguiente forma:
+En la carpeta  Utils tenemos ```Reader.js``` para leer y transformar el archivo ```creatures.json``` en un objeto
+
+En la carpeta ```services```tenemos el archivo ```creatureService``` para filtrar la lista por nombres
+
+Finalmente la carpeta ```controllers``` contiene el archivo ```creatureController``` con un método que nos permite obtener la información de una especie por nombre
+
+En la carpeta ```test``` tenemos las pruebas de unidad que corresponden a las carpetas que comparten el respectivo nombre del directorio ```lib``` 
+
+
 
 
 
