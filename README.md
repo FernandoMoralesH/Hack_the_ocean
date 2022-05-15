@@ -35,6 +35,22 @@ Entre los ejes para la búsqueda de una solución se nos presentaron:
 * Cuidado y preservación de especies marinas.
 * Sobrepesca
 
+Decidímos buscar una forma de concientizar y facilitar la búsqueda de informacíon sobre las especies marinas que habitan en México.
+
+Decidimos que la mejor forma de hacerlo sería mediante el desarrollo de un sitio web y una API para poder consultar la información y presentarla de una forma atractiva y fácil de utilizar
+
+Comenzamos utilizando Miro para comenzar a organizarnos de la siguiente manera
+
+![Screen Shot 2022-05-14 at 23 29 39](https://user-images.githubusercontent.com/99451129/168457363-4c6a6d9b-26e5-408b-a6b8-94da322ab7b5.png)
+
+y creamos diferentes propuestas de Wireframes
+
+![Screen Shot 2022-05-14 at 23 35 20](https://user-images.githubusercontent.com/99451129/168457458-8ec3e355-da6b-4e3d-8dcd-54db83504b82.png)
+
+![Screen Shot 2022-05-14 at 23 36 07](https://user-images.githubusercontent.com/99451129/168457493-bf2ccbeb-ad57-4f4f-9aeb-84af50955c5a.png)
+
+![Screen Shot 2022-05-14 at 23 40 20](https://user-images.githubusercontent.com/99451129/168457572-843899db-6baf-4bac-b29a-6c233af64e43.png)
+
 
 ## Introducción <a name="id3"></a>
 ## Introducción <a name="id4"></a>
