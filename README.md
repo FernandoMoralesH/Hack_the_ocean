@@ -89,9 +89,6 @@ Comenzamos utilizando Miro para comenzar a organizarnos de la siguiente manera
 Front End: El proyecto fue realizado en archivo html con apoyo de CSS Y Javascript (jQuery). °HTML - Se realiza el esqueleto que sera la estructura de la pagina Web" °CSS - Se aplican el estilo que dara forma al esqueleto dicha pagina Web °Javascript - Se utiliza para dar funcioalidad a la pagina.
 
 ![image](https://user-images.githubusercontent.com/99451129/168458441-412cc8f7-fce2-4ba6-84d9-3b0e57ccae90.png)
-Vista del sitio Web
-
-![image](https://user-images.githubusercontent.com/99451129/168458476-4cab17b0-96a7-495f-956e-385afb689a1c.png)
 
 
 
