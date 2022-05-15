@@ -10,3 +10,13 @@ Nuestra tripulación consiste en estudiantes de back end NodeJs:
 
 Tabla de Contenidos
 1. [Introducción](#id1)
+2. [Introducción](#id2)
+3. [Introducción](#id3)
+4. [Introducción](#id4)
+5. [Introducción](#id5)
+6. [Introducción](#id6)
+
+Introducción <a name="id1"></a>
+Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX
+
+
