@@ -1,5 +1,6 @@
 # Hackita project
 El presente proyecto fue concebido para la participación en el hackaton HACK THE OCEAN de [LaunchX](https://www.instagram.com/innovaccionvirtual/?hl=en).
+
 Nuestra tripulación consiste en estudiantes de back end NodeJs:
 
 * [David Ramirez](https://github.com/DavidRamirez5)
@@ -11,8 +12,8 @@ Nuestra tripulación consiste en estudiantes de back end NodeJs:
 Tabla de Contenidos
 1. [Introducción](#id1)
 2. [Planteamiento del problema](#id2)
-3. [Introducción](#id3)
-4. [Introducción](#id4)
+3. [Maquetación y propuestas de Wireframe](#id3)
+4. [front end](#id4)
 5. [Introducción](#id5)
 6. [Introducción](#id6)
 
@@ -23,6 +24,7 @@ Las herramientas que decidimos utilizar para la realización de nuestro proyecto
 
 * Github
 * NodeJs
+* jQuery
 * HTML
 * CSS
 
@@ -37,13 +39,17 @@ Entre los ejes para la búsqueda de una solución se nos presentaron:
 
 Decidímos buscar una forma de concientizar y facilitar la búsqueda de informacíon sobre las especies marinas que habitan en México.
 
-Decidimos que la mejor forma de hacerlo sería mediante el desarrollo de un sitio web y una API para poder consultar la información y presentarla de una forma atractiva y fácil de utilizar
+El tema elegido fue: "Especies en Peligro de Extinción". Si bien el tema es algo muy sonado, es importante seguir informando a la sociedad acerca de las causas y posibles acciones para evitar que las especies sigan extingueindose puesto que todas ellas forman parte de los ecosistemas, las cuales tienen beneficios para el medio ambiente.
+
+Acordamos que la mejor forma de hacerlo sería mediante el desarrollo de un sitio web y una API para poder consultar la información y presentarla de una forma atractiva y fácil de utilizar
+
 
 Comenzamos utilizando Miro para comenzar a organizarnos de la siguiente manera
 
 ![Screen Shot 2022-05-14 at 23 29 39](https://user-images.githubusercontent.com/99451129/168457363-4c6a6d9b-26e5-408b-a6b8-94da322ab7b5.png)
 
-y creamos diferentes propuestas de Wireframes
+## Maquetación y propuestas de Wireframe<a name="id3"></a>
+
 
 ![Screen Shot 2022-05-14 at 23 35 20](https://user-images.githubusercontent.com/99451129/168457458-8ec3e355-da6b-4e3d-8dcd-54db83504b82.png)
 
@@ -52,8 +58,16 @@ y creamos diferentes propuestas de Wireframes
 ![Screen Shot 2022-05-14 at 23 40 20](https://user-images.githubusercontent.com/99451129/168457572-843899db-6baf-4bac-b29a-6c233af64e43.png)
 
 
-## Introducción <a name="id3"></a>
-## Introducción <a name="id4"></a>
+## Front end <a name="id4"></a>
+Front End: El proyecto fue realizado en archivo html con apoyo de CSS Y Javascript (jQuery). °HTML - Se realiza el esqueleto que sera la estructura de la pagina Web" °CSS - Se aplican el estilo que dara forma al esqueleto dicha pagina Web °Javascript - Se utiliza para dar funcioalidad a la pagina.
+
+![image](https://user-images.githubusercontent.com/99451129/168458441-412cc8f7-fce2-4ba6-84d9-3b0e57ccae90.png)
+Vista del sitio Web
+
+![image](https://user-images.githubusercontent.com/99451129/168458476-4cab17b0-96a7-495f-956e-385afb689a1c.png)
+
+
+
 ## Introducción <a name="id5"></a>
 ## Introducción <a name="id6"></a>
 
