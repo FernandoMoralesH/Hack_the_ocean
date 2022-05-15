@@ -16,6 +16,7 @@ Tabla de Contenidos
 4. [front end](#id4)
 5. [Estructura de directorios](#id5)
 6. [Flujo del programa](#id6)
+7. [Dependencias](#id7)
 
 ## Introducción <a name="id1"></a>
 Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
@@ -100,5 +101,12 @@ creatures.json --> Reader
 Reader --> creatureService
 creatureService --> creatureController
 ```
+## Dependencias <a name="id7"></a>
+| Dependencia | Versión | Uso |
+| ------------- |:-------------:| -----:|
+|[eslint](https://github.com/ArturoMendozaA/playbook/tree/main/weekly_mission_3)|8.15.0|linter|
+|[Jest](https://jestjs.io/)|26.6.3|Pruebase de unidad|
+|[Express](https://expressjs.com/)|4.18.1|Server project|
+|[test.yml](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions)|1.0.3|Github Action automatización de pruebas on push|
 
 
