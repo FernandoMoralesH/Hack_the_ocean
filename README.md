@@ -144,7 +144,18 @@ stateDiagram-v2
 creatures.json --> Reader
 Reader --> creatureService
 creatureService --> creatureController
+creatureController --> Server
+Server --> API
+
 ```
+Una vez que tenemos nuestro API utilizamos los servicios de Azure para desplegarlo y poder hacer consultas desde nuestro sitio web
+
+```mermaid
+stateDiagram-v2
+API --> Página_web
+Página_web --> API
+```
+
 
 
 
