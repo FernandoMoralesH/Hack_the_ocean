@@ -16,7 +16,7 @@ Tabla de Contenidos
 5. [Introducción](#id5)
 6. [Introducción](#id6)
 
-Introducción <a name="id1"></a>
+## Introducción <a name="id1"></a>
 Se nos presentó el desafío de crear un proyecto fullstack encaminado a resolver problemas ambientales, específicamente enfocados a los oceanos mediante la aplicación de las habilidades adquiridas durante la duración de curso de LaunchX.
 
 Las herramientas que decidimos utilizar para la realización de nuestro proyecto fueron:
@@ -25,6 +25,14 @@ Las herramientas que decidimos utilizar para la realización de nuestro proyecto
 * NodeJs
 * HTML
 * CSS
+
+## Planteamiento del problema <a name="id2"></a>
+
+
+## Introducción <a name="id3"></a>
+## Introducción <a name="id4"></a>
+## Introducción <a name="id5"></a>
+## Introducción <a name="id6"></a>
 
 
 
