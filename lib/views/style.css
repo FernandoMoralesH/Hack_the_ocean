@@ -412,6 +412,43 @@ p
     font-style:oblique;
 }
 
+.nombre
+{
+  position: relative;
+  left: 20px;
+    width: 380px;
+}
+
+.form-control
+{
+
+    display: block;
+    height: 40px;
+    font-size: 16px;
+    border: 1px solid gray;
+    width: 300px;
+    padding: 5px 10px;
+}
+
+#datos
+{
+    padding: 30px;
+    background-color: rgba(52, 58, 64,1);
+    margin: 10px;
+}
+
+#datos .nombre1
+{
+    padding: 30px;
+    background-color: rgba(52, 58, 64,1);
+    margin: 10px;
+}
+
+#datos
+{
+    position:relative
+}
+
 @media(max-width:767px){
     
     body
