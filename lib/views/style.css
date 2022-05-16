@@ -444,9 +444,21 @@ p
     margin: 10px;
 }
 
-#datos
+h3
 {
-    position:relative
+    color: darkblue;
+    position: absolute;
+    top:100px;
+    left:750px;
+}
+
+#nivel
+{
+    position: absolute;
+    width: 50%;
+    top:200px;
+    left: 500px;
+
 }
 
 @media(max-width:767px){
