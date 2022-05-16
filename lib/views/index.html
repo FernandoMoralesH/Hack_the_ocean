@@ -13,10 +13,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,400&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/8c02604658.js" crossorigin="anonymous"></script>
-    <script src="./script.js" defer></script>
+    <!-- //<script src="./script.js" defer></script> -->
 </head>
 <body>
+    
     <header>
+       
         <div class="container">
             <a href="index.html">
                 <img src="img/Hackita (1).png" class="logo">
@@ -158,13 +160,26 @@
                 <p>Coloca el nombre de la expecie en peligro de extinción para obtener mas información.</p>
                 <div class="row">
                     <div class="columna columna-33 columna-mobile-100 empujar-33 empujar-mobile-0 sinpadding-mobile">
-                        <form action="" method="post">
-                            <div class="form-block">
-                                <input type="text" name="nombre" class="form-control" placeholder="Coloca el Nombre">
-                            <div class="form-block bloque-ultimo">
-                                <input type="submit" class="boton boton-negro" onclick="fetchEspecies()"value="Enviar">
+                                
+                                    <div class="form-block">
+                                
+                                    <input type="text" name="nombre" id="name"  class="form-control" placeholder="Coloca el Nombre">
+                                <div class="form-block bloque-ultimo">
+                                    <input type="submit" id="enviar" class="boton boton-negro" > 
+                                    <img id="animalimg" src="http://www.periodicodigitalgratis.com/gratis/imagen/3059_20170521060549.jpg"  width="100%" alt=""> 
+                                     <div id="datos">
+                                        <!-- Modifica los div en el JS -->
+                                     </div>
+                                     <div><h3>Nivel de Peligro</h3> <img id="nivel" src="https://image.shutterstock.com/image-vector/danger-warning-circle-yellow-sign-260nw-1262751619.jpg"alt=""></div>
+                                </div>
+
                             </div>
-                        </form>
+
+                           
+    
+    
+                        
+                    
                     </div>
                 </div>
             </div>
@@ -207,7 +222,8 @@
             &copy; Derechos reservados
         </div>
     </footer>
-    <script src="js/jquery.js"></script>
-    <script src="js/menu.js" ></script>
+    <!-- <script src="js/jquery.js"></script> -->
+    <!-- <script src="js/menu.js" ></script> -->
+    <script src="script.js"></script>
 </body>
 </html>
